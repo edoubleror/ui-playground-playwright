@@ -1,2 +1,8 @@
 # ui-playground-playwright
-The project is focused on testing automation of the web resource "UI Test Automation Playground"
+Проект предназначен для оттачивания навыков автоматизации пользовательского интерфейса
+
+Тестовая платформа - "UI Test Automation Playground" -
+https://www.uitestingplayground.com/
+
+Инструменты для автоматизации:
+python + pytest + playwright

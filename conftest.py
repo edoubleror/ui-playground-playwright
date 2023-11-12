@@ -19,7 +19,7 @@ def browser_context_args(browser_context_args):
 @pytest.fixture(scope="function", autouse=False)
 def new_incognito_page(context):
     """
-    Шаблон фабрики-фикстуры для использования функции _browser_context несколько раз в одном тесте
+    Шаблон фабрики-фикстуры для использования функции _new_incognito_page несколько раз в одном тесте
 
     Parameters
     ----------
